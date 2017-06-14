@@ -1,10 +1,10 @@
 自动生成Mnist手写数字并通过训练好的神经网络模型对其进行识别。
-##配置
+## 配置
 python
 opencv
 tensorflow
 
-##运行截图
+## 运行截图
 ![手写数字](./pictures/HandWritten.jpg)
 ![识别结果](./pictures/Recognition.jpg)
 
