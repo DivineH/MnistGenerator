@@ -8,7 +8,7 @@ tensorflow
 ![手写数字](./pictures/HandWritten.jpg)
 ![识别结果](./pictures/Recognition.jpg)
 
-##总结
+## 总结
 训练模型的准确率是96%，但实际试验中并没有达到预期目标，而且准确率并不稳定，时高时低；
 
 程序还存在问题：写数字时要一笔写完。
